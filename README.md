@@ -1,3 +1,5 @@
+https://geomediadesign.github.io/geobuzz_challenges/
+
 # geobuzz
 
 DIY Geo-Atelier 
