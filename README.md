@@ -48,8 +48,7 @@ Dit kan een kaart zijn maar ook een visualisatie. Je mag ook met een stukje van 
 * <https://www.mulierinstituut.nl/producten-diensten/dataverzameling/>
 * <https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS>
 * <https://www.pdok.nl/downloads/-/article/basisregistratie-topografie-brt-topnl>
-* [mulierinstituur_ateletiekbanen.xlsx](../master/exportatletiekaeres.xlsx
-)
+* [mulierinstituur_ateletiekbanen.xlsx](../blob/master/exportatletiekaeres.xlsx)
 
 
 # challenge 2 Amersfoort geostad van de toekomst
