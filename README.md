@@ -48,7 +48,7 @@ Dit kan een kaart zijn maar ook een visualisatie. Je mag ook met een stukje van 
 * <https://www.mulierinstituut.nl/producten-diensten/dataverzameling/>
 * <https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS>
 * <https://www.pdok.nl/downloads/-/article/basisregistratie-topografie-brt-topnl>
-* [mulierinstituur atletiekbanen excel](https://github.com/geomediadesign/geobuzz_challenges/blob/master/exportatletiekaeres.xlsx)
+* [mulierinstituur atletiekbanen excel](https://github.com/geomediadesign/geobuzz_challenges/blob/master/exportatletiekaeres.xlsx) volg link en klik op download
 
 
 # challenge 2 Amersfoort geostad van de toekomst
@@ -95,7 +95,7 @@ In de bijlage de meest recente dataset. Let op, het is belangrijk dat het stuks 
 * excel bestand
 * <https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS>
 * <https://www.pdok.nl/downloads/-/article/basisregistratie-topografie-brt-topnl>
-* [agrarische bedrijven rondom Den Bosch excel](https://github.com/geomediadesign/geobuzz_challenges/blob/master/agrarischebedrijvenrondomdb)
+* [agrarische bedrijven rondom Den Bosch excel](https://github.com/geomediadesign/geobuzz_challenges/blob/master/agrarischebedrijvenrondomdb) volg link en klik op download
 
 # challenge 4  Welke bijensoort past bij de gemeente Zeist? 
 
