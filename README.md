@@ -57,6 +57,7 @@ Dit kan een kaart zijn maar ook een visualisatie. Je mag ook met een stukje van 
 ### Passen de speelplaatsen in de wijk bij haar bewoners?
 
 <img src="img/amf.png">
+
 koppel de data van Gemeente Amersfoort bijvoorbeeld aan de wijken en buurten van het CBS, en hoe zit het met afvalbakken in de speelplaatsen? 
 
 
@@ -77,6 +78,9 @@ wijken en buurten
 
 
 # challenge 3 Den Bosch veehouderijen rondom de stad
+
+<img src="img/denb.png">
+
 Vanuit de afdeling Ruimtelijke Ordening en Stedenbouw is de gemeente Den Bosch bezig om de trends en ontwikkelingen in het Bossche buitengebied in kaart te brengen.
 Een dominante speler in het buitengebied is de agrarische sector, maar hoe groot is deze sector precies?
 
