@@ -56,6 +56,7 @@ Dit kan een kaart zijn maar ook een visualisatie. Je mag ook met een stukje van 
 # challenge 2 Amersfoort geostad van de toekomst
 ### Passen de speelplaatsen in de wijk bij haar bewoners?
 
+<img src="img/amf.png">
 koppel de data van Gemeente Amersfoort bijvoorbeeld aan de wijken en buurten van het CBS, en hoe zit het met afvalbakken in de speelplaatsen? 
 
 
