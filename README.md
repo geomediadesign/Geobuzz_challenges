@@ -53,6 +53,7 @@ kaart van heel Nederland of een specifiek deel ervan, een kaart of een visualist
 * <https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS>
 * <https://www.pdok.nl/downloads/-/article/basisregistratie-topografie-brt-topnl>
 * [mulierinstituur atletiekbanen excel](https://github.com/geomediadesign/geobuzz_challenges/blob/master/exportatletiekaeres.xlsx) (volg link en klik op download)
+* https://www.nederlandin3d.nl/viewer/#/
 
 
 # challenge 2: Amersfoort geostad van de toekomst
@@ -75,6 +76,7 @@ koppel de data van Gemeente Amersfoort bijvoorbeeld aan de wijken en buurten van
 * wijken en buurten
 <https://www.cbs.nl/nl-nl/maatwerk/2018/30/kerncijfers-wijken-en-buurten-2018>
 * afvalbakken <https://amersfoort.dataplatform.nl/#/data/7e824480-f48e-4a9d-b433-5910521bc3a0?totalViews=7>
+* https://www.nederlandin3d.nl/viewer/#/
 
 
 # challenge 3: Den Bosch veehouderijen rondom de stad
@@ -103,6 +105,7 @@ We hebben een Excel lijst met daarin de locaties van de agrarische bedrijven, he
 * <https://www.pdok.nl/downloads/-/article/basisregistratie-topografie-brt-topnl>
 * [agrarische bedrijven rondom Den Bosch excel](https://github.com/geomediadesign/geobuzz_challenges/blob/master/agrarischebedrijvenrondomdb) (volg link en klik op download)
 * Let op, het is belangrijk dat het stuks vee in de lijst niet verward wordt met de emissie behorende bij het stuks vee. Dus voor het aantal stuks vee (bijvoorbeeld Melkrundvee) kijken in de kolom ‘melkrundvee’, en niet in de kolom ‘Em. Melkrundvee’ (Em. staat voor emissie).
+* https://www.nederlandin3d.nl/viewer/#/
 
 
 # challenge 4:  Welke bijensoort past bij de gemeente Zeist? 
@@ -129,8 +132,8 @@ Je kunt denken aan:
 
 ### data die je kunt gebruiken
 * <https://www.nederlandzoemt.nl/?gclid=EAIaIQobChMI5rO37ZDn5QIVS-d3Ch1yHAoKEAAYASAAEgJN1PD_BwE>
-* zeist data
-<https://zeist.dataplatform.nl/#/data>
+* zeist data <https://zeist.dataplatform.nl/#/data>
+* https://www.nederlandin3d.nl/viewer/#/
 
 
 # challenge 5: geotinder
