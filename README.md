@@ -5,6 +5,8 @@ https://geomediadesign.github.io/geobuzz_challenges/
 # DIY Geo-Atelier
 ## Ga deze Geobuzz zelf aan de slag! 
 
+<img src="img/denb.png">
+
 Verbaas de bezoekers van de Geobuzz met jullie visualisaties en creatieve projectplannen op vijf uitdagingen en wie weet gaat jouw groep die middag met een feestpakket naar huis!
 
 In het Do it yourself geo-atelier kan je los op het uitwerken en visualiseren van geo-vraagstukken. Wie maakt er binnen één uur de meest aansprekende visualisatie of projectaanpak?
@@ -79,7 +81,7 @@ koppel de data van Gemeente Amersfoort bijvoorbeeld aan de wijken en buurten van
 # challenge 3: Den Bosch veehouderijen rondom de stad
 ## buitengebied, stikstof en de toekomst van de agrarische sector
 
-<img src="img/denb.png">
+<img src="img/dbosch.png">
 
 Vanuit de afdeling Ruimtelijke Ordening en Stedenbouw is de gemeente Den Bosch bezig om de trends en ontwikkelingen in het Bossche buitengebied in kaart te brengen.
 Een dominante speler in het buitengebied is de agrarische sector, maar hoe groot is deze sector precies?
