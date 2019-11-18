@@ -13,13 +13,13 @@ Uitreiking van het feestpakket dagelijks om 15.00 uur!
 **In het Do it yourself geo-atelier kan je los op het uitwerken en visualiseren van geo-vraagstukken. Wie maakt er binnen één uur de meest aansprekende visualisatie of projectaanpak?
 
 ## De challenges
-### 1. Waar liggen er atletiekbanen in Nederland?
+### 1. [Waar liggen er atletiekbanen in Nederland?] (#-challenge-1:-Waar-liggen-er-atletiekbanen-in-Nederland?)
 ### 2. Passen de speelplaatsen in de wijk bij haar bewoners?
 ### 3. Hoe groot is de agrarische sector?
 ### 4. Welke bijensoort past bij de gemeente Zeist? 
-### 5. Tinder voor geodata: hoe zou dat eruit zien?
+### [5. Tinder voor geodata: hoe zou dat eruit zien? Tinder voor geodata: hoe zou dat eruit zien?] (#-challenge-5:-geotinder)
 
-[challenge 1](#-challenge-1:-Waar-liggen-er-atletiekbanen-in-Nederland?)
+
 
 ## meenemen
 1. computer 
