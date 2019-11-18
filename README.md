@@ -16,7 +16,7 @@ Uitreiking van het feestpakket dagelijks om 15.00 uur!
 
 ### 1. [Waar liggen er atletiekbanen in Nederland?](#1-waar-liggen-er-atletiekbanen-in-nederland)
 ### 2. [Amersfoort geostad van de toekomst](#2-challenge-amersfoort-geostad-van-de-toekomst)
-### 3. [Veehouderijen rondom Den Bosch] (#3-challenge-veehouderijen-rondom-den-bosch)
+### 3. [Veehouderijen rondom Den Bosch](#3-challenge-veehouderijen-rondom-den-bosch)
 ### 4. [bijensoort in gemeente Zeist?](#4-challenge-bijensoort-in-gemeente-zeist)
 ### 5. [Tinder voor geodata](#5-challenge-geotinder)
 
