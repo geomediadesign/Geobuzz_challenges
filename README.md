@@ -34,6 +34,7 @@ Uitreiking feestpakket dagelijks om 15.00 uur!
 
 # challenge 1 Atletiekbanen die de maximum snelheid overschreiden
 ### Geef alle atletiekbanen in Nederland weer. 
+![ateletiek](https://github.com/geomediadesign/geobuzz_challenges/blob/master/img/atletiek.png)
 
 Dit kan een kaart zijn maar ook een visualisatie. Je mag ook met een stukje van Nederland beginnen.
 
