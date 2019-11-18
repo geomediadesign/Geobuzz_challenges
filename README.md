@@ -17,7 +17,7 @@ Uitreiking van het feestpakket dagelijks om 15.00 uur!
 ### 2. Passen de speelplaatsen in de wijk bij haar bewoners?
 ### 3. Hoe groot is de agrarische sector?
 ### 4. Welke bijensoort past bij de gemeente Zeist? 
-### 5. Tinder voor geodata: hoe zou dat eruit zien? Tinder voor geodata: hoe zou dat eruit zien? 
+### 5. [Tinder voor geodata: hoe zou dat eruit zien? Tinder voor geodata: hoe zou dat eruit zien?] (#5-challenge-geotinder)
 
 
 ## meenemen
