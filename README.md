@@ -97,7 +97,11 @@ In de bijlage de meest recente dataset. Let op, het is belangrijk dat het stuks 
 * <https://www.pdok.nl/downloads/-/article/basisregistratie-topografie-brt-topnl>
 * [agrarische bedrijven rondom Den Bosch excel](https://github.com/geomediadesign/geobuzz_challenges/blob/master/agrarischebedrijvenrondomdb) volg link en klik op download
 
+
+
 # challenge 4  Welke bijensoort past bij de gemeente Zeist? 
+
+![alt text](https://github.com/geomediadesign/geobuzz_challenges/blob/master/zeist.png "zeist")
 
 Bee Foundation heeft een eerste bijenoase aangelegd in gemeente Zeist.
 Gemeente Zeist is een NL Zoemt Gemeente
