@@ -19,7 +19,7 @@ Uitreiking van het feestpakket dagelijks om 15.00 uur!
 ### 4. Welke bijensoort past bij de gemeente Zeist? 
 ### 5. Tinder voor geodata: hoe zou dat eruit zien?
 
-
+[challeng 1](# challenge 1: Waar liggen er atletiekbanen in Nederland?)
 
 ## meenemen
 1. computer 
@@ -32,7 +32,7 @@ Uitreiking van het feestpakket dagelijks om 15.00 uur!
 3. plaats je resultaten op padlet
 
 
-# challenge 1: Atletiekbanen die de maximum snelheid overschreiden
+# challenge 1: Waar liggen er atletiekbanen in Nederland?
 ### Geef alle atletiekbanen in Nederland weer. 
 
 <img src="img/atletiek.png">
