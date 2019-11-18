@@ -44,7 +44,7 @@ kaart van heel Nederland of een specifiek deel ervan, een kaart of een visualist
 1. wat gaan jullie maken? plan voor app oid, kaart, infographic, datavisualisatie, anders nl. 
 2. Welke datasets of .... heb je hiervoor nodig
 3. Met welke programma's ga je aan de slag
-4. post het resultaat op: https://padlet.com/B_Rienks/geobuzz2019
+4. post het resultaat op: [padlet](https://padlet.com/B_Rienks/geobuzz2019)
 
 ### data die je kunt gebruiken
 
@@ -67,8 +67,7 @@ koppel de data van Gemeente Amersfoort bijvoorbeeld aan de wijken en buurten van
 1. wat gaan jullie maken?
 2. Welke datasets of .... heb je hiervoor nodig
 3. Met welke programma's ga je aan de slag
-4. post het resultaat op: https://padlet.com/B_Rienks/geobuzz2019
-
+4. post het resultaat op: [padlet](https://padlet.com/B_Rienks/geobuzz2019)
 
 ### data die je kunt gebruiken
 * speelplaatsvoorziening per leeftijd
@@ -96,7 +95,7 @@ We hebben een Excel lijst met daarin de locaties van de agrarische bedrijven, he
 1. wat gaan jullie maken?
 2. Welke datasets of .... heb je hiervoor nodig
 3. Met welke programma's ga je aan de slag
-4. post het resultaat op: https://padlet.com/B_Rienks/geobuzz2019
+4. post het resultaat op: [padlet](https://padlet.com/B_Rienks/geobuzz2019)
 
 
 ### data die je kunt gebruiken
@@ -127,7 +126,7 @@ Je kunt denken aan:
 1. wat gaan jullie maken?
 2. Welke datasets of .... heb je hiervoor nodig
 3. Met welke programma's ga je aan de slag
-4. post het resultaat op: https://padlet.com/B_Rienks/geobuzz2019
+4. post het resultaat op: [padlet](https://padlet.com/B_Rienks/geobuzz2019)
 
 
 ### data die je kunt gebruiken
@@ -149,7 +148,7 @@ geo-tinder te maken waarin geodata en services zich op meer en minder geslaagde 
 1. wat gaan jullie maken?
 2. Welke datasets of .... heb je hiervoor nodig
 3. Met welke programma's ga je aan de slag
-4. post het resultaat op: https://padlet.com/B_Rienks/geobuzz2019 
+4. post het resultaat op:[padlet](https://padlet.com/B_Rienks/geobuzz2019)
 
 
 
