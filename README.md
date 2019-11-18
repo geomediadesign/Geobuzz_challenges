@@ -29,7 +29,7 @@ Uitreiking van het feestpakket dagelijks om 15.00 uur!
 ## what to do?
 1. kies een challenge
 2. werk deze uit, je kunt een plan van aanpak maken, een kaart een infographic, je kan het met GIS aanpakken of juist meer op een kunstzinnige of journalistieke manier. 
-3. lever je resultaten in. 
+3. plaats je resultaten op padlet
 
 
 # challenge 1: Atletiekbanen die de maximum snelheid overschreiden
@@ -44,7 +44,7 @@ kaart van heel Nederland of een specifiek deel ervan, een kaart of een visualist
 1. wat gaan jullie maken? plan voor app oid, kaart, infographic, datavisualisatie, anders nl. 
 2. Welke datasets of .... heb je hiervoor nodig
 3. Met welke programma's ga je aan de slag
-4. post het resultaat link of screenshot op .....?
+4. post het resultaat op: https://padlet.com/B_Rienks/geobuzz2019
 
 ### data die je kunt gebruiken
 
@@ -66,7 +66,7 @@ koppel de data van Gemeente Amersfoort bijvoorbeeld aan de wijken en buurten van
 1. wat gaan jullie maken?
 2. Welke datasets of .... heb je hiervoor nodig
 3. Met welke programma's ga je aan de slag
-4. post het resultaat link of screenshot op .....? 
+4. post het resultaat op: https://padlet.com/B_Rienks/geobuzz2019
 
 
 ### data die je kunt gebruiken
@@ -94,7 +94,7 @@ We hebben een Excel lijst met daarin de locaties van de agrarische bedrijven, he
 1. wat gaan jullie maken?
 2. Welke datasets of .... heb je hiervoor nodig
 3. Met welke programma's ga je aan de slag
-4. post het resultaat link of screenshot op .....? 
+4. post het resultaat op: https://padlet.com/B_Rienks/geobuzz2019
 
 
 ### data die je kunt gebruiken
@@ -124,7 +124,7 @@ Je kunt denken aan:
 1. wat gaan jullie maken?
 2. Welke datasets of .... heb je hiervoor nodig
 3. Met welke programma's ga je aan de slag
-4. post het resultaat link of screenshot op .....? 
+4. post het resultaat op: https://padlet.com/B_Rienks/geobuzz2019
 
 
 ### data die je kunt gebruiken
@@ -146,7 +146,7 @@ geo-tinder te maken waarin geodata en services zich op meer en minder geslaagde 
 1. wat gaan jullie maken?
 2. Welke datasets of .... heb je hiervoor nodig
 3. Met welke programma's ga je aan de slag
-4. post het resultaat link of screenshot op .....? 
+4. post het resultaat op: https://padlet.com/B_Rienks/geobuzz2019 
 
 
 
