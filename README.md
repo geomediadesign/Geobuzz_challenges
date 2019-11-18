@@ -1,15 +1,15 @@
 https://geomediadesign.github.io/geobuzz_challenges/
 
-# geobuzz
 
-DIY Geo-Atelier 
-Ga deze Geobuzz zelf aan de slag! 
+
+# DIY Geo-Atelier 
+## Ga deze Geobuzz zelf aan de slag! 
 
 Verbaas de bezoekers van de Geobuzz met jullie visualisaties en creatieve projectplannen op vijf uitdagingen en wie weet gaat jouw groep die middag met een feestpakket naar huis!
 
 In het Do it yourself geo-atelier kan je los op het uitwerken en visualiseren van geo-vraagstukken. Wie maakt er binnen één uur de meest aansprekende visualisatie of projectaanpak?
 
-De challenges
+## De challenges
 1. Waar liggen er atletiekbanen in Nederland?
 2. Passen de speelplaatsen in de wijk bij haar bewoners?
 3. Hoe groot is de agrarische sector?
@@ -19,7 +19,6 @@ De challenges
 Plug je laptop bij ons in en doe mee!
 Het geo-atelier is op beide beursdagen open voor alle studenten. Je vindt ons op het onderwijsplein, naast de inspiratieparade. 
 Uitreiking feestpakket dagelijks om 15.00 uur!
-
 
 ## meenemen
 1. computer 
@@ -105,17 +104,13 @@ In de bijlage de meest recente dataset. Let op, het is belangrijk dat het stuks 
 * [agrarische bedrijven rondom Den Bosch excel](https://github.com/geomediadesign/geobuzz_challenges/blob/master/agrarischebedrijvenrondomdb) volg link en klik op download
 
 
-
 # challenge 4  Welke bijensoort past bij de gemeente Zeist? 
 <img src="img/zeist.png">
 
-Bee Foundation heeft een eerste bijenoase aangelegd in gemeente Zeist.
-Gemeente Zeist is een NL Zoemt Gemeente
-Van hieruit willen we verder met de gemeente en verschillende scholen aan de infrastructuur voor wilde bijen werken, zodat er een complete infrastructuur ontstaat voor de belangrijkste soorten in Zeist.
+Bee Foundation heeft een eerste bijenoase aangelegd in gemeente Zeist.Gemeente Zeist is een NL Zoemt Gemeente. Van hieruit willen we verder met de gemeente en verschillende scholen aan de infrastructuur voor wilde bijen werken, zodat er een complete infrastructuur ontstaat voor de belangrijkste soorten in Zeist.
 
 
 Onze vraagstelling is:
-•  Gebaseerd op belangrijkste soorten die leven in Zeist zie  (advies aan gemeentes)
 •  Welke icoonbij(en) zou je dan kiezen voor Zeist
 •  Op welke planten leven zij
 •  Op welke grondsoort komen deze planten/bomen voor
@@ -150,7 +145,6 @@ geo-tinder te maken waarin geodata en services zich op meer en minder geslaagde 
 4. post het resultaat link of screenshot op .....? 
 
 
-### data die je kunt gebruiken
 
 
 
