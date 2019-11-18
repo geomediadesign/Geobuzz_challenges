@@ -7,20 +7,19 @@ https://geomediadesign.github.io/geobuzz_challenges/
 
 <img src="img/denb.png">
 
-Verbaas de bezoekers van de Geobuzz met jullie visualisaties en creatieve projectplannen op vijf uitdagingen en wie weet gaat jouw groep die middag met een feestpakket naar huis!
+**Verbaas de bezoekers van de Geobuzz met jullie visualisaties en creatieve projectplannen op vijf uitdagingen en wie weet gaat jouw groep die middag met een feestpakket naar huis! Je vindt ons op het onderwijsplein, naast de inspiratieparade. 
+Uitreiking van het feestpakket dagelijks om 15.00 uur!
 
-In het Do it yourself geo-atelier kan je los op het uitwerken en visualiseren van geo-vraagstukken. Wie maakt er binnen één uur de meest aansprekende visualisatie of projectaanpak?
+**In het Do it yourself geo-atelier kan je los op het uitwerken en visualiseren van geo-vraagstukken. Wie maakt er binnen één uur de meest aansprekende visualisatie of projectaanpak?
 
 ## De challenges
-1. Waar liggen er atletiekbanen in Nederland?
-2. Passen de speelplaatsen in de wijk bij haar bewoners?
-3. Hoe groot is de agrarische sector?
-4. Welke bijensoort past bij de gemeente Zeist? 
-5. Tinder voor geodata: hoe zou dat eruit zien?
+### 1. Waar liggen er atletiekbanen in Nederland?
+### 2. Passen de speelplaatsen in de wijk bij haar bewoners?
+### 3. Hoe groot is de agrarische sector?
+### 4. Welke bijensoort past bij de gemeente Zeist? 
+### 5. Tinder voor geodata: hoe zou dat eruit zien?
 
-Plug je laptop bij ons in en doe mee!
-Het geo-atelier is op beide beursdagen open voor alle studenten. Je vindt ons op het onderwijsplein, naast de inspiratieparade. 
-Uitreiking feestpakket dagelijks om 15.00 uur!
+
 
 ## meenemen
 1. computer 
