@@ -31,7 +31,7 @@ Uitreiking van het feestpakket dagelijks om 15.00 uur!
 3. plaats je resultaten op padlet
 
 
-# 1. Waar liggen er atletiekbanen in Nederland?
+# 1. Challenge: atletiekbanen in Nederland?
 ### Geef alle atletiekbanen in Nederland weer. 
 
 <img src="img/atletiek.png">
@@ -55,7 +55,7 @@ kaart van heel Nederland of een specifiek deel ervan, een kaart of een visualist
 * https://www.nederlandin3d.nl/viewer/#/
 
 
-# challenge 2: Amersfoort geostad van de toekomst
+# 2. Challenge: Amersfoort geostad van de toekomst
 ### Passen de speelplaatsen in de wijk bij haar bewoners?
 
 <img src="img/amf.png">
@@ -78,7 +78,7 @@ koppel de data van Gemeente Amersfoort bijvoorbeeld aan de wijken en buurten van
 * https://www.nederlandin3d.nl/viewer/#/
 
 
-# challenge 3: Den Bosch veehouderijen rondom de stad
+# 3. Challenge: veehouderijen rondom Den Bosch 
 ## buitengebied, stikstof en de toekomst van de agrarische sector
 
 <img src="img/dbosch.png">
@@ -107,7 +107,7 @@ We hebben een Excel lijst met daarin de locaties van de agrarische bedrijven, he
 * https://www.nederlandin3d.nl/viewer/#/
 
 
-# challenge 4:  Welke bijensoort past bij de gemeente Zeist? 
+# 4. Challenge bijensoort in gemeente Zeist? 
 ## bijen willen ook urbaniseren
 
 <img src="img/zeist.png">
