@@ -100,7 +100,7 @@ In de bijlage de meest recente dataset. Let op, het is belangrijk dat het stuks 
 
 
 # challenge 4  Welke bijensoort past bij de gemeente Zeist? 
-![zeist](https://github.com/zeist.png)
+![zeist](https://github.com/geomediadesign/geobuzz_challenges/blob/master/img/zeist.png)
 
 Bee Foundation heeft een eerste bijenoase aangelegd in gemeente Zeist.
 Gemeente Zeist is een NL Zoemt Gemeente
