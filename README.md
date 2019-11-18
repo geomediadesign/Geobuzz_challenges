@@ -137,6 +137,8 @@ Onze vraagstelling is:
 
 
 # challenge 5 geotinder
+<img src="img/adam.png">
+
 1. werk een plan uit voor een geo-tinder
 
 geo-tinder te maken waarin geodata en services zich op meer en minder geslaagde wijze presenteren. Door te swipen geef je aan welke data (of presentatie van die data) je wel ziet zitten en welke niet. Achterliggende gedachte is de vraag: “Wat verkoopt” als het om geodata gaat? hoe maak je geodata (nog) aantrekkelijker. Je kunt hierbij uiteraard verschillende doelgroepen aanspreken en dus zijn er verschillende oplossingsrichtingen… 
